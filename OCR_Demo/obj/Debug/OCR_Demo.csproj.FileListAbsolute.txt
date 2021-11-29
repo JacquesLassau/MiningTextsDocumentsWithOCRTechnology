@@ -1,0 +1,27 @@
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\x86\tesseract41.dll
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\x64\tesseract41.dll
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\OCR_Demo.exe.config
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\OCR_Demo.exe
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\OCR_Demo.pdb
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\bin\Debug\Tesseract.dll
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\obj\Debug\OCR_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\obj\Debug\OCR_Demo.csproj.CopyComplete
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\obj\Debug\OCR_Demo.exe
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\obj\Debug\OCR_Demo.pdb
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\x86\tesseract41.dll
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\x64\tesseract41.dll
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\OCR_Demo.exe.config
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\OCR_Demo.exe
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\OCR_Demo.pdb
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\bin\Debug\Tesseract.dll
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\obj\Debug\OCR_Demo.csprojAssemblyReference.cache
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\obj\Debug\OCR_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\obj\Debug\OCR_Demo.csproj.CopyComplete
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\obj\Debug\OCR_Demo.exe
+C:\Users\Cheron\Downloads\OCR_Testes_URGENTEEEEEE _ HAAAAAAAAAAAAAA\OCR_Demo\obj\Debug\OCR_Demo.pdb
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\obj\Debug\OCR_Demo.csproj.AssemblyReference.cache
+C:\Users\Cheron\Downloads\OCR_Testes\OCR_Demo\obj\Debug\OCR_Demo.csproj.SuggestedBindingRedirects.cache
